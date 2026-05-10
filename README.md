@@ -35,6 +35,7 @@ Sudipto Saha and Gajendra P. S. Raghava
 **Journal:** In Silico Biology (2007)
 
 **DOI:** https://doi.org/10.3233/ISB-2007-7104
+https://doi.org/10.5281/zenodo.20103607
 
 ---
 
